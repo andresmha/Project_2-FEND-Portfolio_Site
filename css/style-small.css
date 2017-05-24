@@ -7,11 +7,13 @@ img {
 }
 
 h1 {
-	font-family: 'Raleway', sans-serif;
+	font: 1.6em 'Raleway', sans-serif;
 }
 
 #main-logo {
 	margin-top: 20px;
+	height: 3em;
+	width: 3em;
 }
 
 #main-banner {
@@ -19,12 +21,17 @@ h1 {
 	height: 300px;
 	background-size: cover;
 	max-width: 100%
+	padding: 0;
 }
 
 .featured-title {
-	text-align: center;
+	text-align: left;
 	margin-top: 20px;
 	color: #7d97ad;
+}
+
+.featured-item {
+	padding: 15px 15px 50px 15px;
 }
 
 .featured-item-name {
@@ -35,4 +42,8 @@ h1 {
 .plain-color-link {
 	text-decoration: none;
 	color: black;
+}
+
+.no-padding {
+	padding: 0;
 }
