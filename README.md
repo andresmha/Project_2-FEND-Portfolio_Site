@@ -12,6 +12,4 @@ This is the second project for the **Udacity Front End Nanodegree program**.
 ## Concepts
 * Responsiveness
 * Deployment workflow
-
-
-
+* Objects in JS
