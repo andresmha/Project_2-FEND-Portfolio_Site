@@ -1,2 +1,3 @@
-# Project_2-FEND-Portfolio_Site
-Second Project for Udacity Front End Nanodegree 
+#Portfolio Site
+
+This is the second project for the **Udacity Front End Nanodegree program**
