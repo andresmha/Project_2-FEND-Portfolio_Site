@@ -1,3 +1,7 @@
+/*
+* General 
+*/
+
 body {
     font-family: 'Montserrat', sans-serif;
 }
@@ -7,6 +11,25 @@ img {
 }
 
 h1 {
+	font: 1.6em 'Raleway', sans-serif;
+}
+
+.navbar {
+	background-color: #fff;
+	display: none;
+}
+
+#navbar-main-logo {
+	margin-top: 10px;
+	height: 2em;
+	width: 2em;
+}
+
+.navbar-title {
+	text-align: right;
+	font-size: 3em;
+	margin-top: 10px;
+	right: 15px;
 	font: 1.6em 'Raleway', sans-serif;
 }
 
@@ -20,8 +43,14 @@ h1 {
 	background: url(../img/main-banner.jpg) no-repeat center top;
 	height: 300px;
 	background-size: cover;
-	max-width: 100%
+	max-width: 100%;
 	padding: 0;
+	transition: 0.5s;
+}
+
+#main-banner:hover {
+	opacity: 0.7;
+	transition: 1s;
 }
 
 .featured-title {
@@ -37,6 +66,16 @@ h1 {
 .featured-item-name {
 	font-size: 2.5em;
 	color: #2d3c49;
+}
+
+.featured-item-image {
+	transition: 1s;
+}
+
+.featured-item-image:hover {
+	box-shadow: 0 18px 26px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
+	opacity: 0.7;
+	transition: 0.5s;
 }
 
 .plain-color-link {
