@@ -1,2 +1,15 @@
-# Project_2-FEND-Portfolio_Site
-Second Project for Udacity Front End Nanodegree 
+# Portfolio Site
+
+This is the second project for the **Udacity Front End Nanodegree program**.
+
+## Technologies
+* HTML
+* CSS
+* Bootstrap
+* Javascript
+* Grunt
+
+## Concepts
+* Responsiveness
+* Deployment workflow
+* Minor optimizations
