@@ -6,10 +6,9 @@ This is the second project for the **Udacity Front End Nanodegree program**.
 * HTML
 * CSS
 * Bootstrap
-* Javascript
-* Grunt
+* jQuery
 
 ## Concepts
 * Responsiveness
-* Deployment workflow
-* Minor optimizations
+* Optimizations
+* Clean Code
